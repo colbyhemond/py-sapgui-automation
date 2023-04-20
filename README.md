@@ -42,3 +42,6 @@ Additional details about SAP Scripting Tracker can be found in the documentation
 Open command line or terminal
 pip install py32com
 If it was installed successfully, it should be available to use in your scripts
+
+# Running this script
+Pull this repo into your VS Code editor, and follow the directions in https://code.visualstudio.com/docs/python/python-tutorial

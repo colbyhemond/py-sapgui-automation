@@ -45,3 +45,5 @@ If it was installed successfully, it should be available to use in your scripts
 
 # Running this script
 Pull this repo into your VS Code editor, and follow the directions in https://code.visualstudio.com/docs/python/python-tutorial
+
+Note: You must login to an SAP session, for the scripting to work. As you can see there is not login credentials supplied to the python scripting
